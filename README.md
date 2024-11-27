@@ -25,6 +25,29 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerinin yüklü 
 
 Gerekli kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
-'''bash
-  pip install -r requirements.txt
-'''
+```bash
+pip install -r requirements.txt
+```
+
+# Kullanım
+
+1. Depoyu bilgisayarınıza klonlayın:
+
+```bash
+git clone https://github.com/ecegny1/Linear-Regression-with-Python.git
+```
+2. Gerekli bağımlılıkları yükleyin:
+   
+```bash
+pip install -r requirements.txt
+```
+3. Lineer regresyon uygulamasını görmek için Jupyter notebook dosyasını çalıştırın:
+   
+```bash
+jupyter notebook linear_regression.py
+```
+
+# Sonuçlar
+
+Bu proje sonunda, giriş değişkenlerine dayalı olarak hedef değişkeni tahmin edebilen çalışır bir Lineer Regresyon modeline sahip olacaksınız. Ayrıca, modelin performansını değerlendirip gerekli iyileştirmeleri yapma imkanı bulacaksınız.
+
