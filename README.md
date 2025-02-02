@@ -1,4 +1,4 @@
-# Python İle Lineer Regresyon
+# Python ile Lineer Regresyon
 
 Bu proje, Python kullanarak Lineer Regresyon uygulamasını göstermektedir. Projenin amacı, bir veya birden fazla bağımsız değişken kullanarak hedef bir değişkeni tahmin etmek için basit ama güçlü bir makine öğrenmesi tekniği olan Lineer Regresyon modelini uygulamaktır.
 
